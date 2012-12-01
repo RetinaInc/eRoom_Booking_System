@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<body>
+<outline title="Tec" text="Tec">
+<outline text="Engadget" title="Engadget" type="rss" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com"/>
+</outline>
+<outline title="Sports" text="Sports">
+<outline text="Yahoo! News: Entertainment News" title="Yahoo! News: Entertainment News" type="rss" xmlUrl="http://rss.news.yahoo.com/rss/entertainment" htmlUrl="http://news.yahoo.com/entertainment"/>
+</outline>
+<outline title="Tec" text="Tec">
+<outline text="NYT > Home Page" title="NYT > Home Page" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/userland/HomePage.xml" htmlUrl="http://www.nytimes.com/pages/index.html"/>
+</outline>
+</body>
+</opml>
