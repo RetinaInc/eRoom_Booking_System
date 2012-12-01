@@ -1,0 +1,74 @@
+<style type="text/css">
+
+    body {
+        margin:0;
+        padding:0;
+        font: bold 12px/1.5em Verdana;
+}
+
+h2 {
+        font: bold 14px Verdana, Arial, Helvetica, sans-serif;
+        color: #000;
+        margin: 0px;
+        padding: 0px 0px 0px 15px;
+}
+
+img {
+border: none;
+}
+
+/*- Menu Tabs 10--------------------------- */
+
+    #tabs10 {
+	float:left;
+	width:100%;
+	font-size:93%;
+	border-bottom:1px solid #27000;
+	line-height:normal;
+      }
+    #tabs10 li {
+      display:inline;
+      margin:0;
+      padding:0;
+      }
+    #tabs10 a {
+      float:left;
+      background:url("../pics/menu_tab.png") no-repeat left top;
+      margin:0;
+      padding:0 0 5 6px;
+      text-decoration:none;
+      }
+    #tabs10 a span {
+	float:left;
+	display:block;
+	background:url("../pics/menu_tab.png") no-repeat right top;
+	padding:5px 50px 4px 6px;
+	color:#000;
+	font-weight: bolder;
+      }
+	 #tabs10 a:link.active span, #tabs10 a:visited.active span{
+     background-position:0% -150px;
+    }
+    /* Commented Backslash Hack hides rule from IE5-Mac \*/
+
+	
+    #tabs10 a span {float:none;}
+    /* End IE5-Mac hack */
+    #tabs10 a:hover span {
+      color:#FFF;
+      }
+    #tabs10 a:hover {
+      background-position:0% -150px;
+      }
+    #tabs10 a:hover span {
+      background-position:100% -150px;
+      }
+
+      #tabs10 #current a {
+              background-position:0% -150px;
+      }
+      #tabs10 #current a span {
+              background-position:100% -150px;
+      }
+
+</style>

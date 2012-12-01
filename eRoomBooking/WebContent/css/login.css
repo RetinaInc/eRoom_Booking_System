@@ -1,0 +1,33 @@
+<style type="text/css">
+body{}
+
+.login_bg{
+	background-image:url(../pics/login_header.png);
+	background-repeat:no-repeat;
+	background-position:inherit;
+	}
+.fontid {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: bold;
+	color: #00C;
+	line-height: 20px;
+}
+.textfield{
+background-image:url(../pics/textfield.png);
+background-repeat:no-repeat;
+	}
+.textfieldin{
+	background-image:url(../pics/textfield_in.png);
+	background-repeat:repeat;
+	}
+.radiofont{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000;
+	line-height: 20px;
+	}
+</style>

@@ -1,0 +1,57 @@
+ <style type="text/css">
+
+body {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        margin: 0;
+        font-size: 80%;
+        font-weight: bold;
+        background: #F3FAFF;
+        }
+
+ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        }
+
+/* =-=-=-=-=-=-=-[Menu Two]-=-=-=-=-=-=-=- */
+
+#menu2 {
+	width: 200px;
+	border-style: solid solid solid solid;
+	border-color: #677D92;
+	border-size: 1px;
+	border-width: 1px;
+	margin: 10px;
+        }
+
+#menu2 li a {
+        height: 32px;
+          voice-family: "\"}\"";
+          voice-family: inherit;
+          height: 24px;
+        text-decoration: none;
+        }
+
+#menu2 li a:link, #menu2 li a:visited {
+        color: #000;
+        display: block;
+        background: url("../pics/menu_tab.png") no-repeat left top;
+		margin:0;
+        padding: 8px 0 0 10px;
+        text-decoration:none;
+        }
+
+#menu2 li a:hover, #menu2 li #current {
+        color: #000;
+        background: url("../pics/menu_tab.png") 0 -150px;
+        padding: 8px 0 0 10px;
+        }
+
+#menu2 li a:active {
+        color: #000;
+        background: url("../pics/menu_tab.png") 0 -150px;
+        padding: 8px 0 0 10px;
+        }
+
+</style>
